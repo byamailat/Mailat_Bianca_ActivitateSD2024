@@ -131,6 +131,7 @@ void main() {
 	afisareMesaj(ExtragereHeap(&h));
 	afisareMesaj(ExtragereHeap(&h));
 	afisareMesaj(ExtragereHeap(&h));
+	afisareMesaj(ExtragereHeap(&h));
 	printf("==============================");
 
 	afisareHeapTotala(h);
